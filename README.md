@@ -1,4 +1,32 @@
-[![hugo](https://user-images.githubusercontent.com/43764894/223559747-e9d7f19d-91bf-46a9-a0cb-8d6a40d3cfa3.png)](https://ntl.fyi/3P9w1mr)
+[![平安]([https://user-images.githubusercontent.com/43764894/223559747-e9d7f19d-91bf-46a9-a0cb-8d6a40d3cfa3.png](https://i69.servimg.com/u/f69/20/30/55/87/i3457311.jpg))]([https://ntl.fyi/3P9w1mr](https://xun16888.github.io/))
+
+## 四十年信息目录汇总
+
+华人教会四十年信息汇总目录  
+https://cheng.my-place.us/p/207
+
+《华人教会四十年信息目录（国际版）》  
+https://cheng.my-place.us/p/205
+
+《华人教会四十年信息汇总目录》（备份）  
+https://www.notion.so/2d95e314ed0d807fb53ecfb7a1a335ce
+
+《华人教会40年合辑1》下载链接（下载解压到文件夹后打开html文件查阅，不要移动单个文件位置和改名字，可以整个文件夹移动）：https://40y.ccx1.de5.net/40y.rar  
+原始地址：https://pub-423ac7b3041a4be88d7fe5d807ce6236.r2.dev/40y.rar  
+备份下载地址：https://www.mediafire.com/file/nqc4z539jxbrj39/40y.rar/file
+
+《华人教会40年合辑-1》下载链接（下载解压到文件夹后打开html文件查阅，不要移动单个文件位置和改名字，可以整个文件夹移动）：  
+https://40y.ccx1.de5.net/40y-1.rar  
+原始地址：https://pub-423ac7b3041a4be88d7fe5d807ce6236.r2.dev/40y-1.rar  
+备份下载地址：https://www.mediafire.com/file/9ptrfkhd733w9ya/40y-1.rar/file
+
+老资料库：  
+https://www.mediafire.com/folder/q19k4w9g6b7nc/
+
+视频库：  
+https://www.mediafire.com/folder/xqkajjhn8w1mg/
+
+![](https://cnchurch884052424.wordpress.com/wp-content/uploads/2025/12/e697b6e58abf4234141.webp?w=635)
 
 # Hugo Quickstart Template   
 
