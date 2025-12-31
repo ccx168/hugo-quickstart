@@ -15,3 +15,8 @@
 
   [plugins.inputs]
     enable = false
+    # remove or comment out this block
+[[plugins]]
+  package = "netlify-plugin-cypress"
+  [plugins.inputs]
+    enable = false
