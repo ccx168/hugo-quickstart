@@ -4,7 +4,8 @@ describe('empty spec', () => {
   })
   it('displays the resources text', () => {
     cy.get('h2')
-    .contains('This is a bare-bones Hugo project that has everything you need to quickly deploy it to Netlify');
+    .contains('耶稣回答说：“你们当信服神。”“你们心里不要忧愁；你们信神，也当信我。”
+');
   })
   it('renders the image', () => {
     cy.get('img')
